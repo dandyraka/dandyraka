@@ -18,7 +18,7 @@
  <img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/git.png">
 </p>
 <p>
- <img align='right' src='https://github.com/dandyraka/dandyraka/blob/master/images/cat_coding.gif' width='170"'>
+ <img align='right' src='https://github.com/dandyraka/dandyraka/blob/master/images/cat_coding.gif' width='160"'>
 </p>
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=dandyraka&hide=["issues"]&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FE9419)
