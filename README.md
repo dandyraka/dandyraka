@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=dandyraka&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FE9419)
+
+<h1 align='center'><i>Np lo g ngods?</i></h1>
