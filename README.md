@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <img src = 'https://github.com/dandyraka/dandyraka/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/dandyraka/dandyraka/blob/master/images/git.svg' width='30'/> 
 
 <p>
- <img align='right' src='https://github.com/dandyraka/dandyraka/blob/master/images/cat_coding.gif' width='170"'>
+ <img align='right' src='https://github.com/dandyraka/dandyraka/blob/master/images/cat_coding.gif' width='180"'>
 </p>
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=dandyraka&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=FE9419)
