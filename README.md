@@ -13,6 +13,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandyraka's github stats" />
    </a><br/>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandy's wakatime stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&title_color=fff&text_color=fff&bg_color=8B64FF&layout=compact" alt="dandy's wakatime stats"/>
    </a>
 </p>
