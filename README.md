@@ -1,4 +1,4 @@
-[![JNCK Media banner](https://github.com/dandyraka/dandyraka/blob/master/images/jhead.jpg)](https://jnckmedia.com)
+[![JNCK Media banner](https://github.com/dandyraka/dandyraka/blob/master/images/Purple_JNCKMEDIA3_header.png)](https://jnckmedia.com)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'> Hello there! My name is Dandy. 😎 </p>
 <p align='center'>
