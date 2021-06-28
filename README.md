@@ -11,5 +11,8 @@
    </a>
    <a href="https://github.com/dandyraka/">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
+   </a><br/>
+   <a href="https://wakatime.com/@dandy">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy" alt="dandy's wakatime stats"/>
    </a>
 </p>
