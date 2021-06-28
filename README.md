@@ -2,9 +2,9 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'> Hello there! My name is Dandy. 😎 </p>
 <p align='center'>
-   <a href="https://twitter.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
+   <a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/fb_purp.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/tw_purp.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/ig_purp.png?raw=true"></a>
    <br/><br/>
    <a href="https://github.com/dandyraka/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandyraka&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandyraka's github stats"/>
