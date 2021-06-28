@@ -7,12 +7,12 @@
    <a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
    <br/><br/>
    <a href="https://github.com/dandyraka/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandyraka&layout=compact" alt="dandyraka's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandyraka&layout=compact&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandyraka's github stats"/>
    </a>
    <a href="https://github.com/dandyraka/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandyraka's github stats" />
    </a><br/>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy" alt="dandy's wakatime stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&icon_color=fff&title_color=fff&text_color=fff&bg_color=8B64FF" alt="dandy's wakatime stats"/>
    </a>
 </p>
