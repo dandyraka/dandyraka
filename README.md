@@ -4,6 +4,11 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+<p align="center">
+  <a href="https://github.com/dandyraka/"><img src="https://readme-typing-svg.herokuapp.com?color=8B64FF&center=true&vCenter=true&lines=Lorem+ipsum+dolor+sit+amet;Assalamu'alaikum+jamet"></a>
+</p>
+
 <p align='center'>
    <a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/fb_purp.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/tw_purp.png?raw=true"></a>&nbsp;&nbsp;
