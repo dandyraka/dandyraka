@@ -13,6 +13,6 @@
    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
    </a><br/>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact" alt="dandy's wakatime stats"/>
+   <img align="center" width="710pz" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact" alt="dandy's wakatime stats"/>
    </a>
 </p>
