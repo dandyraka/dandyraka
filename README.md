@@ -21,5 +21,5 @@
    <a href="https://github.com/dandyraka/">
    <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF" alt="dandy's streak stats"/>
    </a>
-   <a href="https://github.com/dandyraka/"><img width="710px" alt="dandy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976" /></a>
+   <a href="https://github.com/dandyraka/"><img width="735px" alt="dandy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976" /></a>
 </p>
