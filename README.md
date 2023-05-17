@@ -29,7 +29,7 @@
    <a href="https://wakatime.com/@dandy">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=dandyraka&column=7" alt="dandy's trophy stats"/>
    </a><br/><br/>
-   <a href="https://github.com/dandyraka/"><img width="735px" alt="dandy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976" /></a>
+   <a href="https://github.com/dandyraka/"><img width="735px" alt="dandy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976" /></a>
 </p>
 
 <!-- <details> 
