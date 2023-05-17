@@ -24,7 +24,7 @@
    <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="dandy's streak stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact&title_color=8B64FF" alt="dandy's wakatime stats"/>
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact&title_color=8B64FF&range=last_7_days" alt="dandy's wakatime stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@dandy">
    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=dandyraka&column=7" alt="dandy's trophy stats"/>
