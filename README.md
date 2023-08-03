@@ -21,15 +21,15 @@
    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="dandyraka's github stats" />
    </a><br/><br/>
   <a href="https://github.com/dandyraka/">
-   <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976&theme=dracula" alt="dandy's streak stats"/>
+   <img align="center" width="645px" src="https://github-readme-streak-stats.herokuapp.com/?user=dandyraka&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976&theme=dracula" alt="dandy's streak stats"/>
    </a><br/><br/>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="dandy's wakatime stats"/>
-   </a><br/><br/>
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=dandy&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="dandy's wakatime stats"/>
+   </a>
    <a href="https://wakatime.com/@dandy">
-   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=dandyraka&column=7&theme=dracula" alt="dandy's trophy stats"/>
+   <img align="center" height="140px" src="https://github-profile-trophy.vercel.app/?username=dandyraka&column=4&theme=dracula" alt="dandy's trophy stats"/>
    </a><br/><br/>
-   <a href="https://github.com/dandyraka/"><img width="735px" alt="dandy's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976&theme=dracula" /></a>
+   <a href="https://github.com/dandyraka/"><img width="650px" alt="dandy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dandyraka&theme=minimal&line=8B64FF&point=d62976&theme=dracula" /></a>
 </p>
 
 <!-- <details> 
